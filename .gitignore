@@ -1,5 +1,5 @@
 # Compiled class files
-target/class
+target/
 
 # Maven
 .mvn/
